@@ -1,0 +1,7 @@
+#+AUTHOR: Simon Stoltze
+#+EMAIL: sstoltze@gmail.com
+#+DATE: 2019-05-23
+#+OPTIONS: toc:nil title:nil author:nil email:nil date:nil creator:nil
+
+* Introduction
+This is a small project to play around with the api at [[https://www.linkpreview.net/]].
